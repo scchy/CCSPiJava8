@@ -1,6 +1,8 @@
 # CCSPiJava8
-Classic Computer Science Problems in Java8
-主要参考：
+
+Classic Computer Science Problems in Java8  
+
+主要参考：[https://github.com/davecom/ClassicComputerScienceProblemsInJava](https://github.com/davecom/ClassicComputerScienceProblemsInJava)
 
 - 第一章 一些小问题
   - fib

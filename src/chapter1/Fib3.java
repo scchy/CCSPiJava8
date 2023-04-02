@@ -4,7 +4,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
- * @author Chengchao.Sun
+ * @author Scc_hy
  * @version 1.0.0
  * @ClassName fib3.java
  * @Description 内存方式的fib
